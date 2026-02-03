@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/github.png" height="220" style="margin-bottom: 20px;"/>
+  <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/github.png" height="190" style="margin-bottom: 20px;"/>
   <br>
 </div>
 
@@ -18,11 +18,11 @@
   </a>
 
   <a href="mailto:amat.montoto@gmail.com" style="margin-right: 25px;">
-    <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/github.svg" height="65"/>
+    <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/github.svg" height="75"/>
   </a>
 
   <a href="https://github.com/amatmontoto" target="_blank">
-     <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/gmail.svg" height="65"/>
+     <img src="https://raw.githubusercontent.com/msardamasri/msardamasri/main/assets/gmail.svg" height="75"/>
   </a>
 
 </div>
