@@ -1,23 +1,31 @@
 <div align="center">
-
-  <h2>Hi, I'm Amat 👋</h2>
-
-  <p>
-    Economist graduate from University of Barcelona and currently pursuing a MSc in Business Analytics at ESADE
-  </p>
-
+  <img src="https://github.githubassets.com/images/modules/site/home/globe-image-desktop.png" alt="GitHub 3D Logo" height="220" style="margin-bottom: 20px;"/>
   <br>
+</div>
 
-  <a href="www.linkedin.com/in/amatmontoto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+### :pushpin: About me
+
+* Economist graduate from University of Barcelona and currently pursuing a MSc in Business Analytics at ESADE
+
+---
+
+### :pushpin: Contact me
+
+<div align="center" style="margin-top: 20px;">
+
+  <a href="www.linkedin.com/in/amatmontoto" target="_blank" style="margin-right: 25px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="55"/>
   </a>
 
-  <a href="mailto:amat.montoto@gmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me" />
+  <a href="mailto:amat.montoto@gmail.com" style="margin-right: 25px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Email Me" height="55"/>
   </a>
 
-  <a href="https://github.com/amatmontoto">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://github.com/amatmontoto" target="_blank">
+     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="My GitHub" height="55"/>
   </a>
 
 </div>
+<br>
+
+---
