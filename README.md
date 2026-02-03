@@ -14,7 +14,7 @@
 <div align="center" style="margin-top: 20px;">
 
   <a href="https://www.linkedin.com/in/amatmontoto" target="_blank" style="margin-right: 25px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="45"/>
   </a>
 
   <a href="mailto:amat.montoto@gmail.com" style="margin-right: 25px;">
